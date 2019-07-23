@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 	<link href="style.css" rel="stylesheet" type="text/css">
-	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script>
 		$(function() {
 			$('form').on('submit', function(e) {
